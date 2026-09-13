@@ -1,2 +1,18 @@
 # singularity
-CLI password generator
+
+Простой CLI генератор паролей.
+
+## Запуск
+
+```
+go run . 16
+```
+
+##Сборка
+
+```
+go build -o sgl .
+sgl 16
+```
+
+Число `16` — длина пароля.
