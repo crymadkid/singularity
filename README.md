@@ -1,0 +1,2 @@
+# singularity
+CLI password generator
